@@ -1,2 +1,2 @@
-# Payroll_management_system
- A python tkinter based payroll management system
+# Payroll management system
+- A python tkinter based payroll management system. 
